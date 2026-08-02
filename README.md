@@ -16,6 +16,6 @@ Follow these steps to get the project running on your machine:
 1. **Clone or download the project folder.**
 2. **Install dependencies:**
    npm install
-3. **Run the live server**
+3. **Run the live server:**
     npm run dev
 4. **Open your browser and navigate to the URL shown in the terminal**  
