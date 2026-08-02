@@ -1,16 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ken Wachira Coach Poster
 
-Currently, two official plugins are available:
+## 📋 Project Overview
+This project is a static React application rebuilt from a Figma design. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Chosen Poster
+- **Name:** Ken Wachira - Basketball Coach
+- **Figma Label:** 1
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 How to Run Locally
 
-## Expanding the ESLint configuration
+Follow these steps to get the project running on your machine:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone or download the project folder.**
+2. **Install dependencies:**
+   npm install
+3. **Run the live server**
+    npm run dev
+4. **Open your browser and navigate to the URL shown in the terminal**  
