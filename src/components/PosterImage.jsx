@@ -1,4 +1,4 @@
-export default function PosterImage({ src, alt}) {
+ function PosterImage({ src, alt}) {
   return (
     <div className="">
       <img
@@ -9,3 +9,4 @@ export default function PosterImage({ src, alt}) {
     </div>
   );
 }
+export default PosterImage;

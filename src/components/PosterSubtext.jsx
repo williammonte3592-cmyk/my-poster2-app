@@ -1,4 +1,4 @@
-export default function PosterSubtext({label, text2,sublabel, ken,about, }){
+ function PosterSubtext({label, text2,sublabel, ken,about, }){
 return (
     <div className="flow-vertical gap-40px w-hug(272px) h-hug(1038px) t-44px l-474px ">
       <h3 className="text-black font-bold  underline decoration-orange-500 bg-white">{label}</h3>
@@ -10,3 +10,4 @@ return (
     </div>
   );
 }
+export default PosterSubtext;

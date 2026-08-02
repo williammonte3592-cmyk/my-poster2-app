@@ -1,4 +1,4 @@
-export default function PosterHeading({title, subtitle }) {
+ function PosterHeading({title, subtitle }) {
   return (
     <div className="mb-4">
       <h1 className="text-white w-347px h-134px t-462px l39px  font-inter weight-600 font-semibold size-60px ">{title}</h1>
@@ -7,3 +7,4 @@ export default function PosterHeading({title, subtitle }) {
     </div>
   );
 }
+export default PosterHeading;
